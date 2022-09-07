@@ -1,0 +1,23 @@
+body {
+  background-color: #202124;
+}
+
+.heading {
+  border-bottom: 2px solid #2E3133;
+  height: 17.5%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.gimage {
+  margin: 13px;
+}
+
+.advheading {
+  color: #f0997e;
+  font-size: 20px;
+  font-family: sans-serif;
+  margin-top: 30px;
+  margin-left: 37px;
+}/*# sourceMappingURL=advstyle.css.map */

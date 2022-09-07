@@ -1,0 +1,40 @@
+.searchbutton{
+
+    color : gray;
+    font-family: 'Roboto Mono', monospace;
+    position: relative;
+    left : 620px;
+    top : 210px;
+    
+    height : 35px;
+    width: 120px;
+
+}
+
+.searchbar{
+
+    height: 40px;
+    width: 500px;
+
+  position: relative;
+    left : 500px;
+     top : 180px;
+
+   border : 1px solid rgb(59, 59, 59);
+
+   
+   border-radius: 60px;
+
+   background: #202124 ;
+
+       
+}
+
+.gimage{
+  
+    position: relative;
+    left : 610px;
+     top : 160px;
+
+
+}
